@@ -1,0 +1,14 @@
+{
+  "name": "tugas1-webservice-biodata-api",
+  "version": "1.0.0",
+  "description": "RESTful API CRUD Biodata Sederhana dengan Node.js, Express, dan In-Memory Array",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bayu Oktovian (2410059)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
